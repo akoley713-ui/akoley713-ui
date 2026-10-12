@@ -25,7 +25,7 @@
 
 🌱 Always learning, building, and improving
 
-🛠️ Tech Stack
+## ⚙️Tools & Technologies
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,git,github,vscode" alt="Tech Stack" /> </p>
 
@@ -111,16 +111,6 @@ A premium product-marketing website in progress, exploring cinematic frame-based
 </td>
 </tr>
 </table>
-
----
-
-## ⚙️Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,python,git,github,vscode&theme=light" alt="C++, HTML, CSS, JavaScript, Python, Git, GitHub and VS Code" />
-
-</div>
 
 ---
 
