@@ -1,87 +1,155 @@
-# Hi, I'm Abhijit Koley 👋
+<!-- Premium Light Glassmorphism GitHub Profile -->
 
-### B.Tech CSE Student @ JGEC | Aspiring Software Engineer
+<div align="center">
 
-💻 Learning to turn ideas into real-world projects through code.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAF5FF,50:F8FBFF,100:D6EAFE&height=180&section=header&text=Abhijit%20Koley&fontSize=48&fontColor=174A7E&fontAlignY=43&desc=CSE%20Student%20%7C%20Developer%20in%20Progress&descSize=16&descAlignY=65&descColor=4779A8" width="100%" />
 
-I'm a Computer Science Engineering student at **Jalpaiguri Government Engineering College (JGEC)**, focused on strengthening my programming fundamentals, solving DSA problems in C++, and building websites with HTML, CSS, and JavaScript.
+<br/>
 
-- 🌱 Currently learning **C++, Data Structures & Algorithms, and Web Development**
-- 🛠️ Building projects that combine creativity, design, and technology
-- 🤖 Exploring AI-powered applications and innovative web experiences
-- 🎯 Goal: Become a skilled software engineer and build meaningful products
+### Building ideas into experiences.
 
----
+*Computer Science Engineering student at Jalpaiguri Government Engineering College.*
 
-## 🧊 Tech Stack
+[GitHub](https://github.com/akoley713-ui) · C++ & DSA · Web Development · Exploring AI
 
-**Languages & Fundamentals**
+<br/>
 
-![C++](https://img.shields.io/badge/C++-EAF3FF?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-EAF3FF?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-EAF3FF?style=for-the-badge&logo=javascript&logoColor=B8860B)
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-EAF5FF?style=flat-square&labelColor=EAF5FF&color=DCEEFF" />
 
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-EAF3FF?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-EAF3FF?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-EAF3FF?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-EAF3FF?style=for-the-badge&logo=github&logoColor=181717)
-![VS Code](https://img.shields.io/badge/VS_Code-EAF3FF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-### 🌦️ WeatherGPT
-**An AI-Assisted Weather Experience**
+<table>
+<tr>
+<td width="60%" valign="top">
 
-A weather assistant project concept focused on making weather information more accessible, with dedicated experiences for farmers, fishermen, and general users.
+### A little about my journey
 
-`Web Development` `Weather Information` `AI Concept`
+I'm a B.Tech Computer Science Engineering student interested in software development, problem-solving, and building useful digital experiences.
 
-### ⌚ TIMELESS — Atelier
-**A Premium Watch Scrolling Experience**
+- **Currently learning:** C++, DSA, HTML, CSS and JavaScript
+- **Building:** Web interfaces and personal projects
+- **Exploring:** AI-powered applications and modern web experiences
+- **Working toward:** Strong programming fundamentals and software engineering skills
 
-An in-progress product-marketing website concept exploring scroll-linked image sequences, cinematic storytelling, and premium visual design.
+</td>
+<td width="40%" valign="top">
 
-[View Repository →](https://github.com/akoley713-ui/timeless-scroll-experience)
+### My focus
 
----
+| Area | Focus |
+|:--|:--|
+| Programming | C++ |
+| Problem solving | DSA practice |
+| Web | HTML, CSS, JavaScript |
+| Exploration | AI-powered products |
 
-### ⌨️ Login Page
-**Responsive Login Interface**
-
-A login page built as an HTML web development project.
-
-[View Repository →](https://github.com/akoley713-ui/Login-page-as-a-HTML-project)
-
-
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akoley713-ui&show_icons=true&hide_border=true&bg_color=F5F9FF&title_color=1769AA&text_color=334155&icon_color=3B82F6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akoley713-ui&layout=compact&hide_border=true&bg_color=F5F9FF&title_color=1769AA&text_color=334155)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=akoley713-ui&hide_border=true&background=F5F9FF&ring=3B82F6&fire=1769AA&currStreakLabel=1769AA&sideLabels=334155&currStreakNum=1769AA&sideNums=1769AA&dates=64748B)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+## Selected Projects
 
-- 💻 GitHub: [@akoley713-ui](https://github.com/akoley713-ui)
-- 🎓 College: Jalpaiguri Government Engineering College
-- 📍 West Bengal, India
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✦ BrandForge AI
+
+**AI Content Studio for Brands & Creators**
+
+A project concept for helping creators and brands develop publish-ready digital content.
+
+`AI & Content` · `Product Concept`
+
+[Explore project →](https://github.com/akoley713-ui)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ WeatherGPT
+
+**Weather Assistant Experience**
+
+A weather assistant concept with dedicated experiences for farmers, fishermen, and general users.
+
+`Web Development` · `Weather`
+
+[Explore project →](https://github.com/akoley713-ui)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⌘ SmartCampus JGEC
+
+**Campus Student Dashboard**
+
+A campus portal concept focused on notices, events, clubs, and academic resources.
+
+`HTML` · `CSS` · `JavaScript`
+
+[Explore project →](https://github.com/akoley713-ui)
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ TIMELESS — Atelier
+
+**Scroll-Driven Watch Experience**
+
+A premium product-marketing website in progress, exploring cinematic frame-based scrolling and visual storytelling.
+
+`Web Design` · `JavaScript`
+
+[View repository →](https://github.com/akoley713-ui/timeless-scroll-experience)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💙 My Developer Philosophy
+## Tools & Technologies
 
-*Build. Learn. Improve. Repeat.*
+<div align="center">
 
-I believe every project is an opportunity to learn something new, solve a problem, and get one step closer to becoming a better engineer.
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,python,git,github,vscode&theme=light" alt="C++, HTML, CSS, JavaScript, Python, Git, GitHub and VS Code" />
 
-**Thanks for visiting my profile!**
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akoley713-ui&show_icons=true&hide_border=true&bg_color=F5F9FF&title_color=2563A6&text_color=52677F&icon_color=3984D8&rank_icon=github" width="49%" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akoley713-ui&layout=compact&hide_border=true&bg_color=F5F9FF&title_color=2563A6&text_color=52677F" width="41%" alt="Most used languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=akoley713-ui&hide_border=true&background=F5F9FF&ring=3984D8&fire=3984D8&currStreakLabel=2563A6&sideLabels=52677F&currStreakNum=2563A6&sideNums=2563A6&dates=718096" width="70%" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Build. Learn. Improve.
+
+*One project and one problem at a time.*
+
+[Explore my repositories](https://github.com/akoley713-ui?tab=repositories)
+
+<sub>Designed with a minimal, light-blue developer aesthetic.</sub>
+
+</div>
