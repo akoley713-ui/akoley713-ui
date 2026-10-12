@@ -2,13 +2,34 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAF5FF,50:F8FBFF,100:D6EAFE&height=180&section=header&text=Abhijit%20Koley&fontSize=48&fontColor=174A7E&fontAlignY=43&desc=CSE%20Student%20%7C%20Developer%20in%20Progress&descSize=16&descAlignY=65&descColor=4779A8" width="100%" />
+<p align="center"> <img src="./banner.jpg" width="100%" alt="Abhijit Koley - Building a Better Tomorrow" /> </p>
 
-<br/>
+<h1 align="center">Hi 👋, I'm Abhijit Koley</h1>
+
+<h3 align="center">B.Tech CSE Student @ JGEC 🎓</h3>
+
+<p align="center"> Turning ideas into real-world solutions through code, creativity and continuous learning. </p>
+
+<p align="center"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge" /> <img src="https://img.shields.io/badge/WebDevelopment-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /> <img src="https://img.shields.io/badge/AI&FutureTech-7C3AED?style=for-the-badge&logo=openai&logoColor=white" /> </p>
+
+## 👨‍💻About Me
+🎓 *B.Tech Computer Science Engineering student at Jalpaiguri Government Engineering College.*
+
+📍 Jalpaiguri, West Bengal, India
+
+💻 Exploring C++, Data Structures & Algorithms
+
+🌐 Learning Web Development
+
+🤖 Interested in AI and future technologies
+
+🌱 Always learning, building, and improving
+
+🛠️ Tech Stack
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,git,github,vscode" alt="Tech Stack" /> </p>
 
 ### Building ideas into experiences.
-
-*Computer Science Engineering student at Jalpaiguri Government Engineering College.*
 
 [GitHub](https://github.com/akoley713-ui) · C++ & DSA · Web Development · Exploring AI
 
@@ -20,13 +41,13 @@
 
 ---
 
-## About Me
+## 🧑‍💻About Me
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-### A little about my journey
+### 👋A little about my journey
 
 I'm a B.Tech Computer Science Engineering student interested in software development, problem-solving, and building useful digital experiences.
 
@@ -38,7 +59,7 @@ I'm a B.Tech Computer Science Engineering student interested in software develop
 </td>
 <td width="40%" valign="top">
 
-### My focus
+### 🎯My focus
 
 | Area | Focus |
 |:--|:--|
@@ -53,26 +74,13 @@ I'm a B.Tech Computer Science Engineering student interested in software develop
 
 ---
 
-## Selected Projects
+## 📂Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✦ BrandForge AI
-
-**AI Content Studio for Brands & Creators**
-
-A project concept for helping creators and brands develop publish-ready digital content.
-
-`AI & Content` · `Product Concept`
-
-[Explore project →](https://github.com/akoley713-ui)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ WeatherGPT
+### 🌦️WeatherGPT
 
 **Weather Assistant Experience**
 
@@ -80,27 +88,17 @@ A weather assistant concept with dedicated experiences for farmers, fishermen, a
 
 `Web Development` · `Weather`
 
-[Explore project →](https://github.com/akoley713-ui)
+[View Repository →](https://github.com/akoley713-ui)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### ⌨️Login Page
 
-### ⌘ SmartCampus JGEC
+Responsive Login Interface
 
-**Campus Student Dashboard**
+A login page built as an HTML web development project.
 
-A campus portal concept focused on notices, events, clubs, and academic resources.
+[View Repository →](https://github.com/akoley713-ui/Login-page-as-a-HTML-project)
 
-`HTML` · `CSS` · `JavaScript`
-
-[Explore project →](https://github.com/akoley713-ui)
-
-</td>
-<td width="50%" valign="top">
-
-### ◉ TIMELESS — Atelier
+### ⌚TIMELESS — Atelier
 
 **Scroll-Driven Watch Experience**
 
@@ -116,7 +114,7 @@ A premium product-marketing website in progress, exploring cinematic frame-based
 
 ---
 
-## Tools & Technologies
+## ⚙️Tools & Technologies
 
 <div align="center">
 
@@ -126,7 +124,7 @@ A premium product-marketing website in progress, exploring cinematic frame-based
 
 ---
 
-## GitHub Activity
+## ✨GitHub Activity
 
 <div align="center">
 
@@ -144,7 +142,7 @@ A premium product-marketing website in progress, exploring cinematic frame-based
 
 <div align="center">
 
-### Build. Learn. Improve.
+### ❤️Build. Learn. Improve.
 
 *One project and one problem at a time.*
 
