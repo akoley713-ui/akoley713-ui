@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<p align="center"> <img src="./banner.png" width="100%" alt="Abhijit Koley - Building a Better Tomorrow" /> </p>
+<p align="center"> <img src="./banner.png" width="50%" alt="Abhijit Koley - Building a Better Tomorrow" /> </p>
 
 
 ## ✨GitHub Activity
