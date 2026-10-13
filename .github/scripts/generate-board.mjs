@@ -87,8 +87,6 @@ const squareColor =
     const x = left + col * step;
     const y = top + row * step;
     const delay = (index * 0.012).toFixed(3);
-
-    squares += `
       
 squares += `
   <rect x="${x}" y="${y}"
