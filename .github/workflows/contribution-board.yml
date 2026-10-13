@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate animated heatmap
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.CONTRIBUTION_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
         run: node .github/scripts/generate-board.mjs
 
