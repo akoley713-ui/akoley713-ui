@@ -5,7 +5,12 @@
 <p align="center"> <img src="./banner.png" width="100%" alt="Abhijit Koley - Building a Better Tomorrow" /> </p>
 
 
-## My Coding Activity
+## ✨GitHub Activity
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akoley713-ui/akoley713-ui/output/contribution-board.svg" width="100%" alt="Animated GitHub Contribution Board" />
+</p>
 
 <p align="center">
   <img
