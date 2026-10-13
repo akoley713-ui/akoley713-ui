@@ -70,13 +70,25 @@ for (let col = 0; col < weeks.length; col++) {
     const delay = (index * 0.012).toFixed(3);
 
     squares += `
-      <rect x="${x}" y="${y}" width="${cell}" height="${cell}"
-        rx="2" fill="${day.color}" opacity="0">
-        <title>${esc(day.date)}: ${day.contributionCount} contributions</title>
-        <animate attributeName="opacity"
-          from="0" to="1" dur="0.22s"
-          begin="${delay}s" fill="freeze" />
-      </rect>`;
+      
+squares += `
+  <rect x="${x}" y="${y}"
+    width="${cell}" height="${cell}"
+    rx="2"
+    fill="${day.contributionCount === 0
+      ? "#161b22"
+      : day.color}"
+    opacity="0">
+    <title>${esc(day.date)}: ${day.contributionCount} contributions</title>
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.22s"
+      begin="${delay}s"
+      fill="freeze" />
+  </rect>`;
+
     index++;
   }
 }
