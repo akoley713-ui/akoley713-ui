@@ -65,6 +65,25 @@ let index = 0;
 for (let col = 0; col < weeks.length; col++) {
   for (let row = 0; row < weeks[col].contributionDays.length; row++) {
     const day = weeks[col].contributionDays[row];
+    
+const colors = [
+  "rgba(255,255,255,0.025)",
+  "#0b251b",
+  "#10452c",
+  "#197440",
+  "#27a653"
+];
+
+const squareColor =
+  day.contributionCount === 0
+    ? "rgba(255,255,255,0.025)"
+    : colors[
+        Math.min(
+          4,
+          Math.ceil(day.contributionCount / 3)
+        )
+      ];
+
     const x = left + col * step;
     const y = top + row * step;
     const delay = (index * 0.012).toFixed(3);
@@ -75,9 +94,7 @@ squares += `
   <rect x="${x}" y="${y}"
     width="${cell}" height="${cell}"
     rx="2"
-    fill="${day.contributionCount === 0
-      ? "#161b22"
-      : day.color}"
+    fill="${squareColor}"
     opacity="0">
     <title>${esc(day.date)}: ${day.contributionCount} contributions</title>
     <animate
