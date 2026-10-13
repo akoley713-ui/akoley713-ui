@@ -128,7 +128,7 @@ const svg = `
   ${squares}
   <g font-family="Arial, sans-serif" font-size="10" fill="#8b949e">
     <text x="${left}" y="${height - 8}">Less</text>
-    ${["#161b22","#0e4429","#006d32","#26a641","#39d353"]
+    ${["#10151c","#18232b","#223640","#304a57","#466574"]
       .map((color, i) =>
         `<rect x="${left + 32 + i * 15}" y="${height - 17}"
           width="10" height="10" rx="2" fill="${color}"/>`
