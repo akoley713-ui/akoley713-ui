@@ -10,18 +10,6 @@
   />
 </p>
 
-
-## ✨GitHub Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/akoley713-ui/akoley713-ui/output/contribution-board.svg"
-    alt="Animated GitHub Contribution Board"
-    width="100%"
-  />
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Abhijit Koley</h1>
 
 <h3 align="center">B.Tech CSE Student @ JGEC 🎓</h3>
