@@ -120,24 +120,6 @@ A premium product-marketing website in progress, exploring cinematic frame-based
 
 ---
 
-## ✨GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akoley713-ui&show_icons=true&hide_border=true&bg_color=F5F9FF&title_color=2563A6&text_color=52677F&icon_color=3984D8&rank_icon=github" width="49%" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akoley713-ui&layout=compact&hide_border=true&bg_color=F5F9FF&title_color=2563A6&text_color=52677F" width="41%" alt="Most used languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=akoley713-ui&hide_border=true&background=F5F9FF&ring=3984D8&fire=3984D8&currStreakLabel=2563A6&sideLabels=52677F&currStreakNum=2563A6&sideNums=2563A6&dates=718096" width="70%" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-<div align="center">
-
 ### ❤️Build. Learn. Improve.
 
 *One project and one problem at a time.*
